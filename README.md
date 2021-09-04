@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 # Hey!
-## I'm Gloria,
+## I'm Gloria Kataike,
 ### How can I can help you?
+### A sk me about tech 😄😄😄😄😄😄
