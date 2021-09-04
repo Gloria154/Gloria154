@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-|# My name is Gloria
-|## My name is Gloria
-### My name is Gloria
-# My name is Gloria
-## My name is Gloria
-### My name is Gloria
+
+# Hey!
+## I'm Gloria,
+### How can I can help you?
